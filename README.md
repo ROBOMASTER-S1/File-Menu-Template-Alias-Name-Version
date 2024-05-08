@@ -1,6 +1,6 @@
 # File Menu Template Alias Name Version
 
-J.C.R Soft~Choice File Menu Alias Name Python program example:
+J.C.R Soft~Choice File Menu Template Alias Name Verson Python program example:
 
 Created by Joseph C. Richardson, GitHub.com
 
